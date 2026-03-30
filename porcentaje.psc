@@ -5,6 +5,6 @@ de el conflictoAlgoritmo sin_titulo
     leer alumos 
 	escribir "esta es la tercera linea ingrese cantidad de alumnos",alumnos
         ramal
-	aqui debe saltar el conflicto 
+	aqui debe saltar el conflicto --- si salto? avisas
            
 FinAlgoritmo
