@@ -5,5 +5,7 @@ Algoritmo sin_titulo
 	escribir "esta es la tercera linea ingrese cantidad de alumnos",alumnos
         ramal
 	leer alumnos
+
+Esta computadora se autodestruirá en 3 segundos.
            
 FinAlgoritmo
